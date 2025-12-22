@@ -152,4 +152,5 @@ This project is created for **learning, portfolio, and demonstration purposes**.
 **Kalpana S**  
 Data Analytics & Power BI Developer  
 
-📫 LinkedIn | 📊 GitHub Portfolio
+🔗 LinkedIn: https://www.linkedin.com/in/skalpana/  
+🔗 GitHub: https://github.com/kalpana-da   
